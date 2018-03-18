@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "bundesliga.h"
 
-
+// kommentar
 void main()
 {
 	struct Tabellen_Struct t[ANZ];
