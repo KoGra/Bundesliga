@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "bundesliga.h"
 
+
 void main()
 {
 	struct Tabellen_Struct t[ANZ];
