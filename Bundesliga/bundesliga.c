@@ -115,6 +115,8 @@ void TabelleAusgeben (struct Tabellen_Struct t[])
 	}
 }
 
+
+
 void ErgebnisAusgeben (struct Ergebnis_Struct e[])
 {
 	int i;
